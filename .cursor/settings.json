@@ -1,0 +1,9 @@
+{
+  "formatOnSave": true,
+  "rustAnalyzer": {
+    "checkOnSave": true,
+    "cargo": {
+      "features": "all"
+    }
+  }
+} 

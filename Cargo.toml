@@ -13,11 +13,16 @@ pedantic = "warn"
 
 [dependencies]
 snmalloc-rs = "0.3.7"
+clap = { version = "4.5.1", features = ["derive"] }
 
 [dev-dependencies]
 criterion = "0.5.1"
 pprof = { version = "0.14.0", features = ["flamegraph", "criterion"] }
 
 [[bin]]
-name = "earthing_conductor"
-path = "src/bin/earthing_conductor.rs"
+name = "garage_earthing"
+path = "src/bin/garage_earthing.rs"
+
+[[bin]]
+name = "garage_supply"
+path = "src/bin/garage_supply.rs"

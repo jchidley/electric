@@ -1,0 +1,30 @@
+{
+    "cSpell.words": [
+        "ahash",
+        "anes",
+        "anstream",
+        "anstyle",
+        "arrayvec",
+        "autocfg",
+        "bitflags",
+        "bumpalo",
+        "bytemuck",
+        "clippy",
+        "colorchoice",
+        "corasick",
+        "demangle",
+        "flamegraph",
+        "getrandom",
+        "gimli",
+        "libc",
+        "memchr",
+        "miniz",
+        "pprof",
+        "rustc",
+        "serde",
+        "shlex",
+        "snmalloc",
+        "wincon",
+        "zerocopy"
+    ]
+}
