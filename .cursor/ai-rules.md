@@ -17,7 +17,7 @@ This is a Rust-based calculator for determining earthing conductor sizes and vol
 - Keep BS 88-3 C fuse characteristics accurate per specifications
 
 ### Safety Critical
-This is a safety-critical application used for electrical installations. When suggesting changes:
+This is an experimental calculator and is not suitable for real-world installation decisions. Treat formula changes as safety-consequential and preserve that limitation. When suggesting changes:
 - Never modify calculation formulas without explicit BS standard references
 - Maintain all safety margins specified in BS 7671
 - Preserve all warning messages about voltage drop limits
@@ -53,4 +53,4 @@ This is a safety-critical application used for electrical installations. When su
 2. Maintain existing safety margins
 3. Include relevant standard references
 4. Preserve test coverage
-5. Keep documentation comprehensive 
+5. Keep documentation comprehensive
