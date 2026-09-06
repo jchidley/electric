@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "repo-preflight-disposition",
+  "identity": "github.com/jchidley/electric",
+  "decision": "changes-published",
+  "reviewedCommit": "2ec53800f34cbfa7f0571cd8b2af9ba9353b5249",
+  "operation": "inspect",
+  "files": {
+    ".cursor/ai-rules.md": "2b48731295b9f7b07eeeae0c31ec4c87b7b506794f56b62163a8f0ee92375277"
+  },
+  "profileId": "4e2f946311539a962f68da645c3a22ac068d8be0022fc08f8ed3cae14331fcc2",
+  "reviewer": "controller-pi-session-01a07795-640e-7529-b8bf-bbdc58622b3e",
+  "summary": "Validated guidance changes are published at the reviewed commit.",
+  "evidenceSummary": [
+    "Validated guidance candidate committed and pushed to main at 2ec53800f34cbfa7f0571cd8b2af9ba9353b5249; post-publication Repo Preflight reports current.",
+    "Account-wide rollout identity, source scope, disposition, and validation evidence were reconciled."
+  ],
+  "limitations": [
+    "Documentation-only; no formula change or standards-compliance claim. Cargo runtime suite unrun; manifest already names an absent garage_earthing.rs target."
+  ],
+  "recordedAt": "2026-09-06T22:49:05.131Z",
+  "publicationApproved": false
+}
